@@ -10,28 +10,21 @@
             {
                 "TYPING_LETTER":
                 [
-                    "q",
-                    "sounds/clicky4.mp3",
-                    "sounds/clicky2.mp3",
-                    "sounds/clicky3.mp3"
-                    "sounds/clicky1.wav",
-                    "sounds/clicky4.wav",
-                    "sounds/clicky2.wav",
-                    "sounds/clicky3.wav"
+                    "quiero-semen.mp3",
+              
 
                 ],
                 "TYPING_ENTER":
                 [
-                    "sounds/clickyenter.mp3"
-                    "sounds/clickyenter.wav"
+                    "quiero-semen.mp3",
+                   
                 ],
                 "TYPING_SPACE":
                 [
-                    "sounds/clickyspace.mp3"
-                    "sounds/clickyspace.wav"
+                    "quiero-semen.mp3",
                 ],
                 "TYPING_BACKSPACE":
                 [
-                    "sounds/clickybackspace.mp3"
-                    "sounds/clickybackspace.wav"
+                    "quiero-semen.mp3",
+        
                     
